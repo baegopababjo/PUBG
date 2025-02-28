@@ -11,3 +11,8 @@ Saved
 # VS Generated Files
 *.suo
 *.db
+
+#지형
+Content/LandscapePackOne/*
+Content/LandscapePackTwo/*
+Content/WaterPlane/*
